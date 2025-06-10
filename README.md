@@ -29,7 +29,7 @@ abstractive-summarization/
 ### 1. Clone the repo and install dependencies
 
 ```bash
-git clone https://github.com/your-username/abstractive-summarization.git
+git clone https://github.com/AndrewChan8/abstractive-summarization.git
 cd abstractive-summarization
 pip install -r requirements.txt
 ```
